@@ -1,0 +1,22 @@
+{
+  "name": "@my-app/shared",
+  "version": "0.0.1",
+  "private": true,
+  "main": "src",
+  "scripts": {},
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/react-native": "^0.70.0",
+    "typescript": "^4.4.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-native": "0.70.1"
+  }
+}
